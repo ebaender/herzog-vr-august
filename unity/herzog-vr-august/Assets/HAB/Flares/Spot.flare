@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spot
+  m_FlareTexture: {fileID: 2800000, guid: e1bd0ac9930ac284fae42576cacf9ca9, type: 3}
+  m_TextureLayout: 1
+  m_Elements:
+  - m_ImageIndex: 9
+    m_Position: 0
+    m_Size: 6.44
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 0
+    m_Fade: 0
+  - m_ImageIndex: 6
+    m_Position: 0
+    m_Size: 3.5
+    m_Color: {r: 1, g: 0.8605254, b: 0.7122642, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 0
+    m_Fade: 0
+  - m_ImageIndex: 2
+    m_Position: 0
+    m_Size: 6.59
+    m_Color: {r: 0.254717, g: 0.21027812, b: 0.16460484, a: 0.09411765}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 0
+    m_Fade: 1
+  m_UseFog: 1
+--- !u!1002 &12100001
+EditorExtensionImpl:
+  serializedVersion: 6
